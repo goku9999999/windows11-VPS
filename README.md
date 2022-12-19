@@ -19,7 +19,7 @@ Unlimited RDP Completely Free
 - Paste this into Cloud Shell:
 
 -  ```console 
-    curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm    
+    curl -skLO is.gd/KezGpz ; chmod +x azurewin11vm ; ./azurewin11vm    
     ```
     
     
