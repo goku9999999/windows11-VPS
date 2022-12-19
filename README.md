@@ -8,7 +8,7 @@ Unlimited RDP Completely Free
 - *Paste this into Cloud Shell :
 
 -   ```console  
-    curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus 
+    curl -skLO https://is.gd/oxs0bJ ; chmod +x azurewinvmplus ; ./azurewinvmplus 
     ```
     
     ### Using Method (Win11-ONLY):
@@ -19,7 +19,7 @@ Unlimited RDP Completely Free
 - Paste this into Cloud Shell:
 
 -  ```console 
-    curl -skLO is.gd/KezGpz ; chmod +x azurewin11vm ; ./azurewin11vm    
+    curl -skLO is.gd/Bq0Zi2 ; chmod +x azurewin11vm ; ./azurewin11vm    
     ```
     
     
